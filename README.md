@@ -82,7 +82,7 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 
 🔹 [AprendendoGolang](https://github.com/Isaac002c/AprendendoGolang) — Estudos e práticas em Go  
 🔹 [Projeto-BellaVitta](https://github.com/Isaac002c/Projeto-BellaVitta) — Site de restaurante italiano responsivo  
-🔹 [Portfólio (em desenvolvimento)](https://github.com/Isaac002c/portifolio) — Página pessoal com projetos  
+🔹 [Portfólio (em desenvolvimento)](https://github.com/Isaac002c/portifolio) — Página Web Projeto criada durante o curso da Alura, simulando a criação de um portfólio.
 
 ---
 ##  Onde me encontrar
