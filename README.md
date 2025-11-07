@@ -21,7 +21,7 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos técnicos e e
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (UNISUAM)** e apaixonado por resolver problemas por meio da tecnologia.  
 Tenho experiência com **automação de processos**, **análise financeira** e **programação em Python e VBA**, além de estar me aprofundando em **Go (Golang)** e desenvolvimento web.
@@ -30,25 +30,25 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-* 🐍 **Python** – scripts, automação e manipulação de dados  
-* ⚙️ **Golang** – estudos voltados a back-end e APIs  
-* 🌐 **HTML5 / CSS3** – estrutura e estilização de páginas  
-* 🗄️ **SQL** – consultas e modelagem de dados  
-* 🧩 **Git / GitHub** – versionamento e colaboração  
-* 📊 **Excel (VBA)** – automação e análise financeira  
+* **Python** – scripts, automação e manipulação de dados  
+* **Golang** – estudos voltados a back-end e APIs  
+* **HTML5 / CSS3** – estrutura e estilização de páginas  
+* **SQL** – consultas e modelagem de dados  
+* **Git / GitHub** – versionamento e colaboração  
+* **Excel (VBA)** – automação e análise financeira  
 
 ---
 
-## 🌍 Idiomas
+##  Idiomas
 
 * 🇧🇷 **Português:** Nativo  
 * 🇺🇸 **Inglês:** Intermediário *(em evolução)*  
 
 ---
 
-## 💼 Experiência Profissional
+##  Experiência Profissional
 
 **Assistente Administrativo – Ago/2025 a Presente**  
 > Governança documental, gestão de notas fiscais e análise orçamentária com apoio de ferramentas automatizadas.
@@ -58,14 +58,14 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 
 ---
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 *  **Cursando Análise e Desenvolvimento de Sistemas** — *UNISUAM*  
 *  **Ensino Médio Completo**
 
 ---
 
-## 📚 Cursos e Capacitações
+##  Cursos e Capacitações
 
 * **Python Básico (Fundação Bradesco)** – Concluído  
 * **Pacote Office / VBA (SENAC — Barra)** – Concluído  
@@ -78,19 +78,19 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
 🔹 [AprendendoGolang](https://github.com/Isaac002c/AprendendoGolang) — Estudos e práticas em Go  
 🔹 [Projeto-BellaVitta](https://github.com/Isaac002c/Projeto-BellaVitta) — Site de restaurante italiano responsivo  
 🔹 [Portfólio (em desenvolvimento)](https://github.com/Isaac002c/portifolio) — Página pessoal com projetos  
 
 ---
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
-📧 **E-mail:** [trugilhoisaac@gmail.com](mailto:trugilhoisaac@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/isaactrugilho](https://linkedin.com/in/isaactrugilho)  
-💻 **GitHub:** [github.com/Isaac002c](https://github.com/Isaac002c)  
-📍 **Localização:** Rio de Janeiro, Brasil  
+**E-mail:** [trugilhoisaac@gmail.com](mailto:trugilhoisaac@gmail.com)  
+**LinkedIn:** [linkedin.com/in/isaactrugilho](https://linkedin.com/in/isaactrugilho)  
+**GitHub:** [github.com/Isaac002c](https://github.com/Isaac002c)  
+**Localização:** Rio de Janeiro, Brasil  
 
 ---
 
