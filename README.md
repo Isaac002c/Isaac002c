@@ -88,7 +88,7 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 ##  Onde me encontrar
 
 **E-mail:** [trugilhoisaac@gmail.com](mailto:trugilhoisaac@gmail.com)  
-**LinkedIn:** [linkedin.com/in/isaactrugilho](https://linkedin.com/in/isaactrugilho)  
+**LinkedIn:** (www.linkedin.com/in/isaac-trugilho-3b6a92301)
 **GitHub:** [github.com/Isaac002c](https://github.com/Isaac002c)  
 **Localização:** Rio de Janeiro, Brasil  
 
