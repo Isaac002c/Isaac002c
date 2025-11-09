@@ -85,13 +85,10 @@ Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos
 🔹 [Portfólio (em desenvolvimento)](https://github.com/Isaac002c/portifolio) — Página Web Projeto criada durante o curso da Alura, simulando a criação de um portfólio.
 
 ---
-##  Onde me encontrar
-
 **E-mail:** [trugilhoisaac@gmail.com](mailto:trugilhoisaac@gmail.com)  
-**LinkedIn:** (www.linkedin.com/in/isaac-trugilho-3b6a92301)
+**LinkedIn:** [www.linkedin.com/in/isaac-trugilho-3b6a92301](https://www.linkedin.com/in/isaac-trugilho-3b6a92301)  
 **GitHub:** [github.com/Isaac002c](https://github.com/Isaac002c)  
 **Localização:** Rio de Janeiro, Brasil  
-
 ---
 
 <p align="center"><i>“Aprender, praticar e aperfeiçoar-se sempre.”</i></p>
