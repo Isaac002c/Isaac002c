@@ -1,95 +1,111 @@
-<h1 align="center">Olá, eu sou o Isaac Trugilho </h1>
+<h1 align="center">Isaac Trugilho</h1>
 
 <p align="center">
-Desenvolvedor em formação | Go • Python • HTML • CSS • SQL <br>
-Estou em busca de uma oportunidade para aplicar meus conhecimentos técnicos e evoluir profissionalmente no desenvolvimento de software.
+  <b>Backend Developer Â· AutomaÃ§Ã£o Â· Sistemas que geram resultado real</b><br/>
+  Rio de Janeiro, Brasil Â· Estudante de ADS â€” UNISUAM
 </p>
 
----
-
 <p align="center">
-  
-  <!-- Badges de linguagens e ferramentas -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (UNISUAM)** e apaixonado por resolver problemas por meio da tecnologia.  
-Tenho experiência com **automação de processos**, **análise financeira** e **programação em Python e VBA**, além de estar me aprofundando em **Go (Golang)** e desenvolvimento web.
+Dev backend com mentalidade de dono â€” uno **tecnologia, automaÃ§Ã£o e negÃ³cio** para criar sistemas que economizam tempo e geram receita.
 
-Procuro oportunidades para aplicar meus conhecimentos em ambientes colaborativos e aprender continuamente com desafios reais.
+NÃ£o sÃ³ programo: entrego produto funcional com visÃ£o de negÃ³cio, do zero Ã  monetizaÃ§Ã£o.
 
----
-
-## Tecnologias & Ferramentas
-
-* **Python** – scripts, automação e manipulação de dados  
-* **Golang** – estudos voltados a back-end e APIs  
-* **HTML5 / CSS3** – estrutura e estilização de páginas  
-* **SQL** – consultas e modelagem de dados  
-* **Git / GitHub** – versionamento e colaboração  
-* **Excel (VBA)** – automação e análise financeira  
+- AutomaÃ§Ã£o de processos como principal diferencial
+- ExperiÃªncia com integraÃ§Ãµes de sistemas (SaaS, CRM, APIs)
+- ManipulaÃ§Ã£o e anÃ¡lise de dados (Python, VBA, SQL)
+- JÃ¡ trabalho com clientes reais e modelos de receita recorrente
 
 ---
 
-##  Idiomas
+## Stack
 
-* 🇧🇷 **Português:** Nativo  
-* 🇺🇸 **Inglês:** Intermediário *(em evolução)*  
-
----
-
-##  Experiência Profissional
-
-**Assistente Administrativo – Ago/2025 a Presente**  
-> Governança documental, gestão de notas fiscais e análise orçamentária com apoio de ferramentas automatizadas.
-
-**Jovem Aprendiz – Out/2024 a Jul/2025**  
-> Planejamento financeiro, automação com VBA e Python, análise de desempenho (Real vs Orçado) e criação de DRE.
+| Ãrea | Tecnologias |
+|---|---|
+| **Backend** | Node.js, PHP, Python, Go |
+| **Dados & AutomaÃ§Ã£o** | Python, Excel VBA, SQL |
+| **Web** | HTML5, CSS3 |
+| **Versionamento** | Git, GitHub |
+| **IntegraÃ§Ãµes** | APIs REST, SaaS, CRMs |
 
 ---
 
-##  Formação Acadêmica
+## Projetos em Destaque
 
-*  **Cursando Análise e Desenvolvimento de Sistemas** — *UNISUAM*  
-*  **Ensino Médio Completo**
+### ðŸ—ï¸ [Chronostek â€” CRM & AutomaÃ§Ã£o](https://github.com/Isaac002c)
+> Sistema de gestÃ£o e automaÃ§Ã£o de processos voltado para clientes reais (ex: despachantes, multas).
+> Modelo SaaS com recorrÃªncia. Produto com usuÃ¡rios pagando â€” nÃ£o Ã© portfÃ³lio, Ã© produto.
 
----
-
-##  Cursos e Capacitações
-
-* **Python Básico (Fundação Bradesco)** – Concluído  
-* **Pacote Office / VBA (SENAC — Barra)** – Concluído  
-* **Designer de Games (SENAC — Barra)** – Concluído  
-* **Portal do Futuro (SENAC — Barra)** – Concluído  
-* **HTML e CSS (Alura)** – Em andamento  
-* **Golang (Alura)** – Em andamento  
-* **GitHub (Alura)** – Em andamento  
-* **Inglês (Aguilar / Alura)** – Em andamento  
+`Node.js` `PHP` `SQL` `SaaS` `AutomaÃ§Ã£o` `CRM`
 
 ---
 
-##  Projetos em Destaque
+### ðŸ“§ [MailShield](https://github.com/Isaac002c)
+> Sistema de automaÃ§Ã£o de comunicaÃ§Ã£o por e-mail: envio inteligente, proteÃ§Ã£o e gestÃ£o de contatos.
 
-🔹 [AprendendoGolang](https://github.com/Isaac002c/AprendendoGolang) — Estudos e práticas em Go  
-🔹 [Projeto-BellaVitta](https://github.com/Isaac002c/Projeto-BellaVitta) — Site de restaurante italiano responsivo  
-🔹 [Portfólio (em desenvolvimento)](https://github.com/Isaac002c/portifolio) — Página Web Projeto criada durante o curso da Alura, simulando a criação de um portfólio.
+`Python` `AutomaÃ§Ã£o` `Email`
 
 ---
-**E-mail:** [trugilhoisaac@gmail.com](mailto:trugilhoisaac@gmail.com)  
-**LinkedIn:** [www.linkedin.com/in/isaac-trugilho-3b6a92301](https://www.linkedin.com/in/isaac-trugilho-3b6a92301)  
-**GitHub:** [github.com/Isaac002c](https://github.com/Isaac002c)  
-**Localização:** Rio de Janeiro, Brasil  
+
+### ðŸ [Projeto BellaVitta](https://github.com/Isaac002c/Projeto-BellaVitta)
+> Site responsivo para restaurante italiano. Foco em UX e identidade visual.
+
+`HTML5` `CSS3` `Responsivo`
+
 ---
 
-<p align="center"><i>“Aprender, praticar e aperfeiçoar-se sempre.”</i></p>
+### ðŸ“š [Aprendendo Golang](https://github.com/Isaac002c/AprendendoGolang)
+> Estudos prÃ¡ticos e projetos em Go, voltados a performance e APIs backend.
 
+`Go` `Backend` `APIs`
+
+---
+
+## ExperiÃªncia
+
+**Assistente Administrativo** â€” *Ago/2025 â€“ presente*
+> GovernanÃ§a documental, gestÃ£o de notas fiscais e anÃ¡lise orÃ§amentÃ¡ria com ferramentas automatizadas.
+
+**Jovem Aprendiz** â€” *Out/2024 â€“ Jul/2025*
+> AutomaÃ§Ã£o com VBA e Python, anÃ¡lise de desempenho (Real vs OrÃ§ado) e criaÃ§Ã£o de DRE.
+
+---
+
+## FormaÃ§Ã£o & Cursos
+
+- ðŸŽ“ AnÃ¡lise e Desenvolvimento de Sistemas â€” **UNISUAM** *(cursando)*
+- Python BÃ¡sico â€” FundaÃ§Ã£o Bradesco
+- Pacote Office / VBA â€” SENAC
+- HTML e CSS â€” Alura *(em andamento)*
+- Golang â€” Alura *(em andamento)*
+
+---
+
+## Idiomas
+
+ðŸ‡§ðŸ‡· PortuguÃªs â€” Nativo &nbsp;&nbsp;|&nbsp;&nbsp; ðŸ‡ºðŸ‡¸ InglÃªs â€” IntermediÃ¡rio *(em evoluÃ§Ã£o)*
+
+---
+
+## Contato
+
+<p>
+  <a href="mailto:trugilhoisaac@gmail.com">ðŸ“§ trugilhoisaac@gmail.com</a><br/>
+  <a href="https://www.linkedin.com/in/isaac-trugilho-3b6a92301">ðŸ’¼ LinkedIn</a><br/>
+  <a href="https://github.com/Isaac002c">ðŸ™ GitHub</a>
+</p>
+
+---
+
+<p align="center"><i>"Aprender, praticar e aperfeiÃ§oar-se sempre."</i></p>
