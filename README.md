@@ -1,8 +1,8 @@
-<h1 align="center">Isaac Trugilho</h1>
+<h1 align="center"> Isaac Trugilho</h1>
 
 <p align="center">
-  <b>Backend Developer Â· AutomaÃ§Ã£o Â· Sistemas que geram resultado real</b><br/>
-  Rio de Janeiro, Brasil Â· Estudante de ADS â€” UNISUAM
+  <b>Backend Developer • Automação • Sistemas que geram resultado real</b><br/>
+  📍 Rio de Janeiro, Brasil •  ADS — UNISUAM
 </p>
 
 <p align="center">
@@ -16,96 +16,105 @@
 
 ---
 
-## Sobre mim
+##  Sobre mim
 
-Dev backend com mentalidade de dono â€” uno **tecnologia, automaÃ§Ã£o e negÃ³cio** para criar sistemas que economizam tempo e geram receita.
+Desenvolvedor backend com mentalidade de dono — uno **tecnologia, automação e negócio** para criar sistemas que economizam tempo e geram receita.
 
-NÃ£o sÃ³ programo: entrego produto funcional com visÃ£o de negÃ³cio, do zero Ã  monetizaÃ§Ã£o.
+Não sou apenas um programador: construo **produtos funcionais com visão de mercado**, do zero até a monetização.
 
-- AutomaÃ§Ã£o de processos como principal diferencial
-- ExperiÃªncia com integraÃ§Ãµes de sistemas (SaaS, CRM, APIs)
-- ManipulaÃ§Ã£o e anÃ¡lise de dados (Python, VBA, SQL)
-- JÃ¡ trabalho com clientes reais e modelos de receita recorrente
-
----
-
-## Stack
-
-| Ãrea | Tecnologias |
-|---|---|
-| **Backend** | Node.js, PHP, Python, Go |
-| **Dados & AutomaÃ§Ã£o** | Python, Excel VBA, SQL |
-| **Web** | HTML5, CSS3 |
-| **Versionamento** | Git, GitHub |
-| **IntegraÃ§Ãµes** | APIs REST, SaaS, CRMs |
+*  Automação de processos como principal diferencial
+*  Integrações com APIs, SaaS e CRMs
+*  Manipulação e análise de dados (Python, VBA, SQL)
+*  Experiência com clientes reais e receita recorrente
 
 ---
 
-## Projetos em Destaque
+##  Stack
 
-### ðŸ—ï¸ [Chronostek â€” CRM & AutomaÃ§Ã£o](https://github.com/Isaac002c)
-> Sistema de gestÃ£o e automaÃ§Ã£o de processos voltado para clientes reais (ex: despachantes, multas).
-> Modelo SaaS com recorrÃªncia. Produto com usuÃ¡rios pagando â€” nÃ£o Ã© portfÃ³lio, Ã© produto.
-
-`Node.js` `PHP` `SQL` `SaaS` `AutomaÃ§Ã£o` `CRM`
-
----
-
-### ðŸ“§ [MailShield](https://github.com/Isaac002c)
-> Sistema de automaÃ§Ã£o de comunicaÃ§Ã£o por e-mail: envio inteligente, proteÃ§Ã£o e gestÃ£o de contatos.
-
-`Python` `AutomaÃ§Ã£o` `Email`
+| Área                  | Tecnologias              |
+| --------------------- | ------------------------ |
+| **Backend**           | Node.js, PHP, Python, Go |
+| **Dados & Automação** | Python, Excel VBA, SQL   |
+| **Web**               | HTML5, CSS3              |
+| **Versionamento**     | Git, GitHub              |
+| **Integrações**       | APIs REST, SaaS, CRMs    |
 
 ---
 
-### ðŸ [Projeto BellaVitta](https://github.com/Isaac002c/Projeto-BellaVitta)
-> Site responsivo para restaurante italiano. Foco em UX e identidade visual.
+##  Projetos em Destaque
+
+###  Chronostek — CRM & Automação
+
+> Sistema de gestão e automação de processos voltado para clientes reais (ex: despachantes e multas).
+> Modelo SaaS com recorrência — produto validado com usuários pagantes.
+
+`Node.js` `PHP` `SQL` `SaaS` `Automação` `CRM`
+
+---
+
+### 📧 MailShield
+
+> Sistema de automação de e-mails com foco em envio inteligente, proteção e gestão de contatos.
+
+`Python` `Automação` `Email`
+
+---
+
+###  Projeto BellaVitta
+
+> Website responsivo para restaurante italiano, com foco em experiência do usuário e identidade visual.
 
 `HTML5` `CSS3` `Responsivo`
 
 ---
 
-### ðŸ“š [Aprendendo Golang](https://github.com/Isaac002c/AprendendoGolang)
-> Estudos prÃ¡ticos e projetos em Go, voltados a performance e APIs backend.
+###  Aprendendo Golang
+
+> Estudos práticos e desenvolvimento de APIs com foco em performance e backend.
 
 `Go` `Backend` `APIs`
 
 ---
 
-## ExperiÃªncia
+##  Experiência
 
-**Assistente Administrativo** â€” *Ago/2025 â€“ presente*
-> GovernanÃ§a documental, gestÃ£o de notas fiscais e anÃ¡lise orÃ§amentÃ¡ria com ferramentas automatizadas.
+**Assistente Administrativo** — *Ago/2025 – Atual*
 
-**Jovem Aprendiz** â€” *Out/2024 â€“ Jul/2025*
-> AutomaÃ§Ã£o com VBA e Python, anÃ¡lise de desempenho (Real vs OrÃ§ado) e criaÃ§Ã£o de DRE.
+> Atuação com governança documental, gestão de notas fiscais e análise orçamentária utilizando automações.
 
----
+**Jovem Aprendiz** — *Out/2024 – Jul/2025*
 
-## FormaÃ§Ã£o & Cursos
-
-- ðŸŽ“ AnÃ¡lise e Desenvolvimento de Sistemas â€” **UNISUAM** *(cursando)*
-- Python BÃ¡sico â€” FundaÃ§Ã£o Bradesco
-- Pacote Office / VBA â€” SENAC
-- HTML e CSS â€” Alura *(em andamento)*
-- Golang â€” Alura *(em andamento)*
+> Automação com VBA e Python, análise de desempenho (Real vs Orçado) e criação de DRE.
 
 ---
 
-## Idiomas
+## Formação & Cursos
 
-ðŸ‡§ðŸ‡· PortuguÃªs â€” Nativo &nbsp;&nbsp;|&nbsp;&nbsp; ðŸ‡ºðŸ‡¸ InglÃªs â€” IntermediÃ¡rio *(em evoluÃ§Ã£o)*
+*  Análise e Desenvolvimento de Sistemas — **UNISUAM** *(cursando)*
+* Python Básico — Fundação Bradesco
+* Pacote Office / VBA — SENAC
+* HTML e CSS — Alura *(em andamento)*
+* Golang — Alura *(em andamento)*
 
 ---
 
-## Contato
+##  Idiomas
+
+🇧🇷 Português — Nativo
+🇺🇸 Inglês — Intermediário *(em evolução)*
+
+---
+
+## 📫 Contato
 
 <p>
-  <a href="mailto:trugilhoisaac@gmail.com">ðŸ“§ trugilhoisaac@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/isaac-trugilho-3b6a92301">ðŸ’¼ LinkedIn</a><br/>
-  <a href="https://github.com/Isaac002c">ðŸ™ GitHub</a>
+   <a href="mailto:trugilhoisaac@gmail.com">trugilhoisaac@gmail.com</a><br/>
+   <a href="https://www.linkedin.com/in/isaac-trugilho-3b6a92301">LinkedIn</a><br/>
+   <a href="https://github.com/Isaac002c">GitHub</a>
 </p>
 
 ---
 
-<p align="center"><i>"Aprender, praticar e aperfeiÃ§oar-se sempre."</i></p>
+<p align="center">
+  <i>"Aprender, praticar e evoluir todos os dias."</i>
+</p>
