@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Developer • Automação • Sistemas que geram resultado real</b><br/>
-  📍 Rio de Janeiro, Brasil •  ADS — UNISUAM
+   Rio de Janeiro, Brasil •  ADS — UNISUAM
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Não sou apenas um programador: construo **produtos funcionais com visão de mer
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p>
    <a href="mailto:trugilhoisaac@gmail.com">trugilhoisaac@gmail.com</a><br/>
