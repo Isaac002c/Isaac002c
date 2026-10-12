@@ -1,120 +1,42 @@
-<h1 align="center"> Isaac Trugilho</h1>
+<h1 align="center">Isaac Trugilho</h1>
 
-<p align="center">
-  <b>Backend Developer • Automação • Sistemas que geram resultado real</b><br/>
-   Rio de Janeiro, Brasil •  ADS — UNISUAM
-</p>
+<p align="center"><strong>Desenvolvedor de Software | Backend com Node.js, APIs REST e integrações</strong></p>
+<p align="center">Análise e Desenvolvimento de Sistemas — UNISUAM</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+## Sobre mim
 
----
+Sou desenvolvedor de software com experiência prática na construção e evolução de sistemas para necessidades reais de negócio. Meu foco está no backend: desenvolvimento de APIs REST com Node.js e Express, integração entre serviços e persistência de dados relacionais com PostgreSQL e SQL.
 
-##  Sobre mim
+Também conecto APIs a aplicações web com Next.js e React e desenvolvo automações para rotinas operacionais. Minha vivência com processos de negócio me ajuda a entender o problema antes de transformar requisitos em funcionalidades.
 
-Desenvolvedor backend com mentalidade de dono — uno **tecnologia, automação e negócio** para criar sistemas que economizam tempo e geram receita.
+Atualmente curso Análise e Desenvolvimento de Sistemas na UNISUAM e busco oportunidades como Desenvolvedor Backend Jr ou Full Stack Jr, com foco em Node.js, APIs e aplicações web.
 
-Não sou apenas um programador: construo **produtos funcionais com visão de mercado**, do zero até a monetização.
+## Tecnologias
 
-*  Automação de processos como principal diferencial
-*  Integrações com APIs, SaaS e CRMs
-*  Manipulação e análise de dados (Python, VBA, SQL)
-*  Experiência com clientes reais e receita recorrente
+- **Backend:** Node.js, JavaScript, Express.js
+- **APIs e dados:** APIs REST, PostgreSQL, SQL, JWT
+- **Web:** Next.js, React, HTML e CSS
+- **Automação:** Python e VBA
+- **Versionamento:** Git e GitHub
 
----
+## Projetos em destaque
 
-##  Stack
+### Chronostek CRM
 
-| Área                  | Tecnologias              |
-| --------------------- | ------------------------ |
-| **Backend**           | Node.js, PHP, Python, Go |
-| **Dados & Automação** | Python, Excel VBA, SQL   |
-| **Web**               | HTML5, CSS3              |
-| **Versionamento**     | Git, GitHub              |
-| **Integrações**       | APIs REST, SaaS, CRMs    |
+CRM web com interface em Next.js/React e API em Node.js/Express. Reúne módulos de clientes, leads, contratos, documentos e rotinas operacionais.
 
----
+[Ver repositório](https://github.com/Isaac002c/ChronosTechCRM)
 
-##  Projetos em Destaque
+### Email Security Webhook
 
-###  Chronostek — CRM & Automação
+Serviço que recebe eventos de provedores de e-mail por webhook para processar notificações e automatizar registros e alertas relacionados à segurança.
 
-> Sistema de gestão e automação de processos voltado para clientes reais (ex: despachantes e multas).
-> Modelo SaaS com recorrência — produto validado com usuários pagantes.
+[Ver repositório](https://github.com/Isaac002c/email-security-webhook)
 
-`Node.js` `PHP` `SQL` `SaaS` `Automação` `CRM`
+## Contato
 
----
+- [E-mail](mailto:trugilhoisaac@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/isaac-trugilho-3b6a92301)
+- [GitHub](https://github.com/Isaac002c)
 
-### 📧 MailShield
-
-> Sistema de automação de e-mails com foco em envio inteligente, proteção e gestão de contatos.
-
-`Python` `Automação` `Email`
-
----
-
-###  Projeto BellaVitta
-
-> Website responsivo para restaurante italiano, com foco em experiência do usuário e identidade visual.
-
-`HTML5` `CSS3` `Responsivo`
-
----
-
-###  Aprendendo Golang
-
-> Estudos práticos e desenvolvimento de APIs com foco em performance e backend.
-
-`Go` `Backend` `APIs`
-
----
-
-##  Experiência
-
-**Assistente Administrativo** — *Ago/2025 – Atual*
-
-> Atuação com governança documental, gestão de notas fiscais e análise orçamentária utilizando automações.
-
-**Jovem Aprendiz** — *Out/2024 – Jul/2025*
-
-> Automação com VBA e Python, análise de desempenho (Real vs Orçado) e criação de DRE.
-
----
-
-## Formação & Cursos
-
-*  Análise e Desenvolvimento de Sistemas — **UNISUAM** *(cursando)*
-* Python Básico — Fundação Bradesco
-* Pacote Office / VBA — SENAC
-* HTML e CSS — Alura *(em andamento)*
-* Golang — Alura *(em andamento)*
-
----
-
-##  Idiomas
-
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Intermediário *(em evolução)*
-
----
-
-##  Contato
-
-<p>
-   <a href="mailto:trugilhoisaac@gmail.com">trugilhoisaac@gmail.com</a><br/>
-   <a href="https://www.linkedin.com/in/isaac-trugilho-3b6a92301">LinkedIn</a><br/>
-   <a href="https://github.com/Isaac002c">GitHub</a>
-</p>
-
----
-
-<p align="center">
-  <i>"Aprender, praticar e evoluir todos os dias."</i>
-</p>
+<p align="center"><i>Aprender, praticar e evoluir todos os dias.</i></p>
