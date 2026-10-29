@@ -121,6 +121,17 @@ Projeto voltado ao recebimento e processamento de eventos por meio de webhooks, 
 
 ##  Experiência profissional
 
+**Telun**
+Fundador e Desenvolvedor de Software | Novembro 2025 - atual
+
+- Desenvolvo soluções SaaS com foco em backend, APIs REST, integrações e automação de processos.Implemento rotas, regras de negócio e autenticação utilizando Node.js e Express.js.
+
+- Estruturo a persistência de dados em PostgreSQL e desenvolvo integrações entre serviços por meio de APIs e webhooks.
+
+- Integro aplicações backend a interfaces web desenvolvidas com Next.js.Utilizo Git e GitHub para versionamento e organização do código.
+
+- Desenvolvo soluções orientadas a necessidades operacionais de empresas, considerando organização dos dados, segurança e manutenção.
+
 **S2 Holding S.A.**  
 *Assistente Administrativo de TI | Julho de 2025 – Dezembro de 2025*
 
